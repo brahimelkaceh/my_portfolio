@@ -11,7 +11,7 @@
     outline: none;
     border: none;
     text-transform: capitalize;
-    transition: all 1.2s linear;
+    transition: all .5s linear;
 }
 *::selection{
     background: var(--yellow);
